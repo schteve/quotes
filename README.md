@@ -20,3 +20,6 @@ Some quotes or ideas that I felt like jotting down for some reason. In no partic
 - > Are you building chrome or steel?
 
 - > If you're overthinking, write. If you're underthinking, read.
+
+- > "We must be able, at any time, to accept the fact that we could all be absolutely and utterly wrong."
+    > -- *Terry Pratchett*
