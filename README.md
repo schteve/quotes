@@ -23,3 +23,6 @@ Some quotes or ideas that I felt like jotting down for some reason. In no partic
 
 - > "We must be able, at any time, to accept the fact that we could all be absolutely and utterly wrong."
     > -- *Terry Pratchett*
+
+- > Imagine your team is a tool to manufacture a design, "the precision of your tool goes down as team size goes up."
+    > -- *Jonathan Blow*
